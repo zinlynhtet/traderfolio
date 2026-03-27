@@ -20,7 +20,7 @@ export default function AboutPage() {
               className="w-32 h-32 md:w-40 md:h-40 rounded-lg mx-auto flex items-center justify-center relative terminal-glass overflow-hidden"
             >
               <Image
-                src="/profile.jpg"
+                src="./profile.jpg"
                 alt="Zin Linn Htet - Flickk"
                 fill
                 className="object-cover"
